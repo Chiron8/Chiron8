@@ -18,3 +18,7 @@
 
 ## My Arch Linux + Hyprland setup:
 ![image](https://github.com/user-attachments/assets/07037a78-9b49-47dd-b703-912b48f43d0c)
+
+---
+Checkout my more interesting projects 
+
