@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiron8&label=Profile%20views&color=0e75b6&style=flat" alt="chiron8" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chiron8&theme=discord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chiron8&theme=discord&no-frame=true&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiron8)](https://github.com/anuraghazra/github-readme-stats)
 
