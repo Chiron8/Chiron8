@@ -5,8 +5,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=chiron8&theme=discord&no-frame=true&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiron8)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 I’m currently working on [Jetpack Joyride AI](https://github.com/Chiron8/Jetpack-Joyride-AI)
 
 - 🤨 What I'm actually doing [Revising for exams!](https://github.com/Chiron8/Revising)
