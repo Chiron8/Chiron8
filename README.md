@@ -1,24 +1,16 @@
 <h1 align="center">Hey, I'm Chiron8</h1>
 <h3 align="center">A student from the UK</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chiron8&label=Profile%20views&color=0e75b6&style=flat" alt="chiron8" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chiron8&theme=discord&no-frame=true&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+- 🔭 I’m currently working on ChironOS, my own linux based operating system 
 
-- 🔭 I’m currently working on [Jetpack Joyride AI](https://github.com/Chiron8/Jetpack-Joyride-AI)
-
-- 🤨 What I'm actually doing [Revising for exams!](https://github.com/Chiron8/Revising)
+- 🤨 What I'm actually doing Homework :(
 
 - 🌱 I’m currently learning **C**
 
-## I am experienced with:
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+![Chiron8's Stats](https://github-readme-stats.vercel.app/api?username=Chiron8&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![Chiron8's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chiron8&theme=tokyonight&hide_border=false)
+![Chiron8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiron8&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-
-
-## My Arch Linux + Hyprland setup:
-![image](https://github.com/user-attachments/assets/07037a78-9b49-47dd-b703-912b48f43d0c)
-
----
-Checkout my more interesting projects 
-
+## My Gentoo Linux + Hyprland setup:
+<img width="3841" height="1080" alt="image" src="https://github.com/user-attachments/assets/bdf579dd-dda0-423f-bd7d-a2df95e34ba9" />
