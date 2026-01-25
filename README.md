@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning **C**
 
 ![Chiron8's Stats](https://github-readme-stats.vercel.app/api?username=Chiron8&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![Chiron8's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chiron8&theme=tokyonight&hide_border=false)
 ![Chiron8's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiron8&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## My Gentoo Linux + Hyprland setup:
