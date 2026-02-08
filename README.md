@@ -2,7 +2,7 @@
 <h3 align="center">A student from the UK</h3>
 
 
-- 🔭 I’m currently working on ChironOS, my own linux based operating system 
+- 🔭 I’m currently working on the package manager for ChironOS, my own linux based operating system
 
 - 🤨 What I'm actually doing Homework :(
 
