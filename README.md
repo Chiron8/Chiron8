@@ -13,6 +13,3 @@
 
 ## My Gentoo Linux + Hyprland setup:
 <img width="3841" height="1080" alt="image" src="https://github.com/user-attachments/assets/bdf579dd-dda0-423f-bd7d-a2df95e34ba9" />
-
-
-![Really cool image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ZHIhgp2doligTf6i5LU-5YWQ-rwwOSfhsg&s)
